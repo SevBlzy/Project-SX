@@ -7,5 +7,6 @@ Unlimited ways to unblock everything on Chromebook! Updated regularly!
   Apps (Unblocked spotify, Unblocked roblox, and more),
   Unblocked games,
   Bookmarklets,
-  Built in proxy
+  Built in proxy, 
+  Movies, TV shows
   + many more!
